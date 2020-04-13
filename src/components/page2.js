@@ -1,12 +1,12 @@
 import React from "react";
 
-export default class Page1 extends React.Component{
+export default class Page2 extends React.Component{
     constructor(props) {
         super(props);
     }
     render(){
         return (<div>
-            this is page1
+            this is page2
         </div>);
     }
 }
