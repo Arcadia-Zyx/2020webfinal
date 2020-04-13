@@ -7,6 +7,9 @@ export default class Page1 extends React.Component{
     render(){
         return (<div>
             this is page1
+            <br/>
+            <a href="/p2">Link to p2</a>
         </div>);
     }
 }
+
