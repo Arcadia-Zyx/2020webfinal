@@ -4,6 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### 
+Make sure that MongoDB is running
+```
+mongod
+```
+run the server
+```
+npm run server
+```
+and then in a separate window/tab run the frontend
+```
 ### `npm start`
 
 Runs the app in the development mode.<br />
